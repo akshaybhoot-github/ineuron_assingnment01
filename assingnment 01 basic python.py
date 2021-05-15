@@ -1,0 +1,108 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+## assingnment 01 
+
+
+# In[9]:
+
+
+#     * ITS A MULTIPLY
+#'     HELLO' ITS A STRING ALWAYS IN SINGLE OR DOUBLE INVERTED COMMA
+#      -87.8 ITS A FLOAT VALUE
+#     - ITS A MINUS
+#      / ITS A MODULO OPERATOR
+#     + ITS A ADDITION
+#   6 ITS A NUMERIC DIGIT CALLED AS INTEGER
+
+
+# In[ ]:
+
+
+# ANS_02
+
+VARIABLE IS A PLACE IN WHICH THE INFORMATION IS STORE 
+                        AND
+STRING IS THE TYPE OF INFORMATION WHICH IS ALPHABET USED WITH SINGLE OR DOUBLE INVERTED COMMA
+
+
+# In[ ]:
+
+
+# ANS_03
+
+THE EXAMPLE OF THREE DATA TYPES ARE
+#NUMERIC
+#BOOLEAN
+# SET
+
+# NUMERIC DATA TYPE IS ONE OF THE EXAMPLE OF THE DATA TYPE 
+#     WHICH USE TO STORETHE NUMERIC VALUE AS INTEGER , FLOAT ,COMPLEX NUMBER.
+#   EXAM 65,45.4,45+5J
+ 
+    #BOOLEAN DATA TYPE IT IS A COMINATION OF 1,0 OR TRUE OR FALSE WHERE AS 
+    #TRUE REPRESENT 1
+    #FALSE REPRESENT 0
+    
+#SET IS THE COLLECTION OF UNORDERED DATA OR UNSTRUCTURED ITEMS
+# WHICH IS USED WITH DICTIONRIES BRACKES OR CURLY BRACKETS
+
+
+# In[ ]:
+
+
+# ANS_04 
+#EXPRESSION IS MADE UP OF VARIABLE ,DATATYPE,OPERATOR,OPERAND, AND USING A PROPER SYNTAX 
+#EXPRESSION RETURN THE DIFFERENT TYPES OF VALUES OR AND OR RESULT ACCORDING TO USED SYNTAX
+
+
+# In[ ]:
+
+
+#ANS_05 
+# EXPRESSION IS MADE UP OF VARIABLE ,DATATYPE,OPERATOR,OPERAND, AND USING A PROPER SYNTAX
+# STATEMENT MEANS EVERY LINE OF CODE OR USING # HEADING ARE KNOE\WN AS STATEMENT EVEN EXPRESSION 
+# IS ALSO A PART OF THE STATEMENT
+
+
+# In[ ]:
+
+
+#ANS06
+# BACON+1  IT DOES NOT REASSINGN THE VALUE 
+# BACON 22 IS THE ASSINGNING OF VALUE
+
+
+# In[ ]:
+
+
+#AND 07
+# 'spam' +'spamspam'
+# its result is spamspamspam
+
+#'spam'*3
+#spamspamspam
+
+
+# In[ ]:
+
+
+#ANS 08
+#eggs is an alphabet and every variable is start with the alphabet or underscore
+#so it is valid variable name
+
+
+# 100 is the numeric value and variable never started with the integer value
+
+
+# In[ ]:
+
+
+#ans_10
+# 'i have eaten'+99+'burritos'
+#this causes error because the string never add with the integer the correct ofrm is 
+# 'i have eaten'+'99'+'burrotis'
+
