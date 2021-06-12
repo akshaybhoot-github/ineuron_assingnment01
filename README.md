@@ -1,2 +1,2 @@
-# ineuron_assingnment01
+ineuron_assingnment_fullstackdatascience course
 assingnment 01 python basic
